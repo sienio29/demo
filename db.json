@@ -10,5 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "shops": [
+		{"name": "ZEUS", "city": "Jabłoń", "street": "Trubajowa", "buildingNo": "25c", "phone": "667-223-456", "postCode": "54-201"},
+        	{"name": "Marlenka", "city": "Radzymin", "street": "Kąkolowa", "buildingNo": "123", "phone": "123-223-311", "postCode": "54-201"},
+        	{"name": "U Elżuni", "city": "Mokrzeszów", "street": "Mokrzeszów", "buildingNo": "54", "phone": "334-334-123", "postCode": "54-201"},
+        	{"name": "Mini-bar", "city": "Mokrzeszów", "street": "pl. Grunwaldzki", "buildingNo": "1", "phone": "655-456-123", "postCode": "54-201"},
+        	{"name": "Cyce Jolki", "city": "Opoczka", "street": "pl. Grunwaldzki", "buildingNo": "1", "phone": "655-456-123", "postCode": "54-201"} 
+	]
 }
